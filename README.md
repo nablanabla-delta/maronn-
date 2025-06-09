@@ -65,13 +65,13 @@ _Physics Playground_
 -----
 _Further Maths_
 
-- Mixed Structures ─┐
-                    ├─ (groups & fields) --> Galois
+- Mixed Structures ─┐<br>
+                    ├─ (groups & fields) --> Galois<br>
                     └─ (rings & modules) --> Algebraic Geometry
 
 - Lie Theory --> Representations of Groups
 
-- Homological Algebra ─┐
-                       ├─ Algebraic Topology
+- Homological Algebra ─┐<br>
+                       ├─ Algebraic Topology<br>
                        └─ Category Theory
 
