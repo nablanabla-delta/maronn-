@@ -68,12 +68,12 @@ _Further Maths_
 - Mixed Structures ─┐
 
                     ├─ (groups & fields) --> Galois
-
                     └─ (rings & modules) --> Algebraic Geometry
 
 - Lie Theory --> Representations of Groups
 
-- Homological Algebra ─┐<br>
-                       ├─ Algebraic Topology<br>
+- Homological Algebra ─┐
+
+                       ├─ Algebraic Topology
                        └─ Category Theory
 
