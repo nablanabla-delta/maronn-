@@ -11,3 +11,67 @@
 > Or every man be blind — <br> 
 >
 > EMILY DICKINSON 
+
+
+
+*MARONN* stands for:
+
+
+M-eaning
+A-rises
+from
+R-elationships.
+O-bjects,
+N-ot
+N-umbers.
+
+
+
+
+# The overall plan
+
+_Mathematical Survival Kit_
+- Logic & sets
+- Topological Spaces
+- Manifolds
+- Review #1
+  - Algebraic structures
+    - Groups
+    - Rings
+    - Fields
+  - Vectors spaces & Linear Algebra
+
+- Differentiable manifolds
+- Bundles
+  - Tangent
+  - Cotangent
+- Tensors and tensor fields
+
+-----
+_Physics Playground_
+- Lagrangian and Hamiltonian Mech
+
+- Principal Bundles
+- Connections
+- Riemannian Metrics
+
+- Covariant Derivatives
+  - Curvature
+  - Parallel Transport
+
+- Gauges
+
+
+-----
+_Further Maths_
+
+- Mixed Structures ─┐
+                    ├─ (groups & fields) --> Galois
+                    └─ (rings & modules) --> Algebraic Geometry
+
+- Lie Theory --> Representations of Groups
+
+- Homological Algebra ─┐
+                       ├─ Algebraic Topology
+                       └─ Category Theory
+
