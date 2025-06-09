@@ -10,4 +10,4 @@
 > The Truth must dazzle gradually <br>
 > Or every man be blind — <br> 
 >
-> EMILY DICKINSON 
+>         EMILY DICKINSON 
