@@ -66,8 +66,10 @@ _Physics Playground_
 _Further Maths_
 
 - Mixed Structures ─┐
--                    ├─ (groups & fields) --> Galois
--                    └─ (rings & modules) --> Algebraic Geometry
+
+                    ├─ (groups & fields) --> Galois
+
+                    └─ (rings & modules) --> Algebraic Geometry
 
 - Lie Theory --> Representations of Groups
 
